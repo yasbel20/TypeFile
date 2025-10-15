@@ -1,0 +1,6 @@
+Python es un lenguaje 
+de programación de alto
+nivel, interpretado y 
+de propósito general, 
+creado por Guido van
+Rossum en 1991.
