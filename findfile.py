@@ -1,5 +1,5 @@
 # Autor: Yasbel Soto
-# Git: [Tu enlace de Git]
+# Git: https://github.com/yasbel20/TypeFile.git
 
 # Crear un programa que busca cuántas veces aparece un texto en un archivo
 # Debemos crear un programa llamado FindText.py que reciba dos argumentos en la consola:
